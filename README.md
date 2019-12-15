@@ -18,4 +18,4 @@ how to use:
 
 in diffrent console, we run the Tester file.
 *make your own test. use the comments and grade attributes to give the score to every student
-*when the test is finished, this method will write the results to an XML file ( The file needs to be prepared before - first row: a list of id's of the students)
+*when the test is finished, this method will write the results to an exel file ( The file needs to be prepared before - first row: a list of id's of the students)
